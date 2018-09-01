@@ -1,1 +1,1 @@
-* [Symbol](Handbook/Symbols.md)
+* [Symbol](Handbook/Symbol.md)

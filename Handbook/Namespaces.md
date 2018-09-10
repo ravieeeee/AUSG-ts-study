@@ -43,6 +43,7 @@ for (let s of strings) {
 
 ## Multi-file namespaces
 * 한 namespace를 여러 파일로 나눌 수 있음
+
 validation.ts
 ```typescript
 namespace Validation {
@@ -65,6 +66,7 @@ namespace Validation {
 }
 ```
 ZipCodeValidator.ts는 생략
+
 Test.ts
 ```typescript
 /// <reference path="Validation.ts" />

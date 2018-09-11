@@ -2,3 +2,4 @@
 * [Iterators and Generators](Handbook/IteratorsAndGenerators.md)
 * [Modules](Handbook/Modules.md)
 * [Namespaces](Handbook/Namespaces.md)
+* [Namespaces and Modules](Handbook/NamespacesAndModules.md)
